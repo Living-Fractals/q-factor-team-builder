@@ -1,2 +1,2 @@
-# q-factor-team-builder
-Q-Factor Team Builder Module
+# nuance-team-builder,
+nuance Team Builder Module
